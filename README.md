@@ -41,3 +41,11 @@ Main memory and cache memory
 
 وبكدا احنا خلصنا كلامنا اتمني إن الموضوع كان خفيف ومبسط وأنا هسيب شوية لينكات تحت ولو حابب تعرف Details اكتر اتبع نصيحة الدحيح🫶🏻
 
+cache Memory 
+https://www.britannica.com/technology/cache-memory
+
+Main Memory 
+https://www.tutorialspoint.com/what-is-the-main-memory
+
+Cash Memory VS Main Memory
+https://www.tutorialspoint.com/difference-between-cache-and-ram#:~:text=The%20term%20%22main%20memory%22%20refers,be%20quickly%20accessed%20when%20needed 
